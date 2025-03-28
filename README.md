@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I am a **third-year student** in **Information Tec
 
 ## Current Projects
 
-### 1. [AI for Studying Cosmic Phenomena]
-([link-to-project](https://github.com/adimadd9/GalaxyClassifier))
+### 1. AI for Studying Cosmic Phenomena ([link-to-project](https://github.com/adimadd9/GalaxyClassifier)).
+
 As part of my student research, I am working on a project involving the **application of AI** to classify cosmic objects. The project uses **Machine Learning** techniques in **Python** to analyze and classify galaxyes in the universe.
 
 ## Skills & Technologies
