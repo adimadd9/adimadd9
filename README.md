@@ -1,6 +1,6 @@
 # Hello! I'm Denis
 
-Welcome to my GitHub profile! I am a **third-year student** in **Information Technologies**, with a passion for software development, game design, and applying artificial intelligence in various fields.
+Welcome to my GitHub profile! I am a **third-year student** in **Information Technologies** from **Moldova**, with a passion for software development, game design, and applying artificial intelligence in various fields.
 
 ## About Me
 
